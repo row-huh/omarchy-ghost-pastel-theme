@@ -1,12 +1,12 @@
 # Omarchy Ghost Pastel Theme
-
 Theme pack for Omarchy
----
+
+
 ![Preview](preview.png)
 ---
 ![Previw](readme-assets/preview-2.png)
 
----
+
 ## Installation
 Simply run; 
 ```
