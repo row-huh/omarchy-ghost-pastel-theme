@@ -2,9 +2,9 @@
 
 Theme pack for Omarchy
 ---
-!(Preview)[preview.png]
+![Preview](preview.png)
 ---
-!(Previw)[readme-assets/preview-2.png]
+![Previw](readme-assets/preview-2.png)
 
 ---
 ## Installation
